@@ -1,0 +1,4 @@
+shodan==1.28.0
+python-telegram-bot==20.7
+geopy==2.4.1
+folium==0.16.0
